@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Pixel2Image/1.0.0": {
+        "runtime": {
+          "Pixel2Image.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pixel2Image/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

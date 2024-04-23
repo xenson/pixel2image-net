@@ -1,0 +1,17 @@
+C:\Users\xiaen\source\repos\Pixel2Image\Pixel2Image\bin\Debug\net8.0-windows\Pixel2Image.exe
+C:\Users\xiaen\source\repos\Pixel2Image\Pixel2Image\bin\Debug\net8.0-windows\Pixel2Image.deps.json
+C:\Users\xiaen\source\repos\Pixel2Image\Pixel2Image\bin\Debug\net8.0-windows\Pixel2Image.runtimeconfig.json
+C:\Users\xiaen\source\repos\Pixel2Image\Pixel2Image\bin\Debug\net8.0-windows\Pixel2Image.dll
+C:\Users\xiaen\source\repos\Pixel2Image\Pixel2Image\bin\Debug\net8.0-windows\Pixel2Image.pdb
+C:\Users\xiaen\source\repos\Pixel2Image\Pixel2Image\obj\Debug\net8.0-windows\Pixel2Image.Form1.resources
+C:\Users\xiaen\source\repos\Pixel2Image\Pixel2Image\obj\Debug\net8.0-windows\Pixel2Image.csproj.GenerateResource.cache
+C:\Users\xiaen\source\repos\Pixel2Image\Pixel2Image\obj\Debug\net8.0-windows\Pixel2Image.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xiaen\source\repos\Pixel2Image\Pixel2Image\obj\Debug\net8.0-windows\Pixel2Image.AssemblyInfoInputs.cache
+C:\Users\xiaen\source\repos\Pixel2Image\Pixel2Image\obj\Debug\net8.0-windows\Pixel2Image.AssemblyInfo.cs
+C:\Users\xiaen\source\repos\Pixel2Image\Pixel2Image\obj\Debug\net8.0-windows\Pixel2Image.csproj.CoreCompileInputs.cache
+C:\Users\xiaen\source\repos\Pixel2Image\Pixel2Image\obj\Debug\net8.0-windows\Pixel2Image.dll
+C:\Users\xiaen\source\repos\Pixel2Image\Pixel2Image\obj\Debug\net8.0-windows\refint\Pixel2Image.dll
+C:\Users\xiaen\source\repos\Pixel2Image\Pixel2Image\obj\Debug\net8.0-windows\Pixel2Image.pdb
+C:\Users\xiaen\source\repos\Pixel2Image\Pixel2Image\obj\Debug\net8.0-windows\Pixel2Image.genruntimeconfig.cache
+C:\Users\xiaen\source\repos\Pixel2Image\Pixel2Image\obj\Debug\net8.0-windows\ref\Pixel2Image.dll
+C:\Users\xiaen\source\repos\Pixel2Image\Pixel2Image\obj\Debug\net8.0-windows\Pixel2Image.ConverterForm.resources
